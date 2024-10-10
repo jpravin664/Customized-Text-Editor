@@ -44,22 +44,8 @@ This is a simple, customizable text editor created using Python's Tkinter librar
    - Select a font and size using the drop-down menus and spinbox.
    - Switch between Light and Dark themes from the `Theme` menu.
 
-## Future Enhancements
-
-- ➕ Add more theme options.
-- ✨ Support for rich text formatting (bold, italic, underline).
-- 🔍 Syntax highlighting for various programming languages.
-
 ## Screenshots
 
 ![Light Theme Screenshot](screenshots/Light%20theme.png)
 ![Dark Theme Screenshot](screenshots/Dark%20theme.png)
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- Inspired by the need for a simple yet powerful text editor.
-- Built with the help of Python's Tkinter library. 
